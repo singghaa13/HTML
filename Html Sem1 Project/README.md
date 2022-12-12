@@ -1,1 +1,1 @@
-# news_today
+#LPU NEWS
